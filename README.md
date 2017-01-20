@@ -20,7 +20,7 @@ $ npm install extract-css-modules-mapping-plugin
 
 MIT © [Yoctol](https://github.com/Yoctol/extract-css-modules-mapping-plugin)
 
-[npm-image]: https://badge.fury.io/js/async-update-props.svg
-[npm-url]: https://npmjs.org/package/async-update-props
-[david_img]: https://david-dm.org/Yoctol/async-update-props.svg
-[david_site]: https://david-dm.org/Yoctol/async-update-props
+[npm-image]: https://badge.fury.io/js/extract-css-modules-mapping-plugin.svg
+[npm-url]: https://npmjs.org/package/extract-css-modules-mapping-plugin
+[david_img]: https://david-dm.org/Yoctol/extract-css-modules-mapping-plugin.svg
+[david_site]: https://david-dm.org/Yoctol/extract-css-modules-mapping-plugin
