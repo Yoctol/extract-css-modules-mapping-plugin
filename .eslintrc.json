@@ -1,0 +1,9 @@
+{
+  "extends": "yoctol-base",
+  "env": {
+    "node": true
+  },
+  "rules": {
+
+  }
+}

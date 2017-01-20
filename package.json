@@ -1,0 +1,43 @@
+{
+  "name": "extract-css-modules-mapping-plugin",
+  "version": "0.1.0",
+  "description": "Extract css-modules hashing map to a json file",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": "Yoctol/extract-css-modules-mapping-plugin",
+  "author": {
+    "name": "C.T. Lin",
+    "email": "chentsulin@gmail.com",
+    "url": "github.com/Yoctol/extract-css-modules-mapping-plugin"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "devEngines": {
+    "node": ">=4",
+    "npm": ">=2"
+  },
+  "files": [
+    "src/"
+  ],
+  "keywords": [
+    "webpack",
+    "plugin",
+    "webpack-plugin",
+    "hash",
+    "map",
+    "css-modules"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "eslint-config-yoctol-base": "^0.12.1",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "scripts": {
+    "testonly": "NODE_ENV=test jest",
+    "test": "npm run lint && npm run testonly",
+    "lint": "eslint .",
+    "preversion": "npm test"
+  }
+}
